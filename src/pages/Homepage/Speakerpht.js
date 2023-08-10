@@ -5,8 +5,7 @@
      <div className='Speakerpht'>
         
         <div className='Speakerphot'>
-            <img></img>
-            this is an image
+            <img src=''></img>
         </div>
         <div className='SpeakerInfo'> This is where info will reamined</div>
      </div>

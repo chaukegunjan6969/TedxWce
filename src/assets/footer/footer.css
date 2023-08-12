@@ -1,0 +1,14 @@
+.Footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 3px solid black ;
+    margin: 10px;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    background-color: lightblue;
+    z-index: 1;
+}

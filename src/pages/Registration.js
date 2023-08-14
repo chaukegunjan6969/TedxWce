@@ -1,5 +1,6 @@
 import React from 'react'
 import Form  from './Registration/Form'
+
 import Venue from './Registration/Venue'
 
 const Registration = () => {

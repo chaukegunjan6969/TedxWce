@@ -5,9 +5,11 @@ import Venue from './Registration/Venue'
 const Registration = () => {
   return (
     <div>
-      <h1>Registration</h1>
-      <Venue></Venue>
-      <Form></Form>
+      <h1 className="text-3xl font-bold underline" >Registration page</h1>
+
+
+       <Form></Form>
+       <Venue></Venue>
     </div>
   )
 }

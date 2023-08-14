@@ -26,7 +26,7 @@ const Footer = ()=>{
           </div>
           <div>
             <p id="footer-home">Home</p>
-            <p id="footer-register">Footer</p>
+            <p id="footer-register">Register</p>
             <p id="about-us">About Us</p>
             <p id="contact-us">Contact Us</p>
           </div>

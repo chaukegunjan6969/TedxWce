@@ -13,6 +13,8 @@
     border-radius: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
+    border: solid 0.1rem aliceblue;
+    border-color: aliceblue;
 }
 input{
     border-radius: 0.5rem;

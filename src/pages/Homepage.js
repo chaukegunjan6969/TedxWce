@@ -3,7 +3,7 @@ import Infosection from '../pages/Homepage/Infosection';
 import  Speaketphoto from '../pages/Homepage/Speakerpht';
 import VideoHomepage from './Homepage/VideoHome';
 import  '../assets/home/homepage.css'
-
+import Form from './form';
 
 const Homepage = () => {
   return (
@@ -11,6 +11,7 @@ const Homepage = () => {
     <Infosection></Infosection>
     <VideoHomepage></VideoHomepage>
     <Speaketphoto></Speaketphoto>
+    <Form></Form>
     </div>
   )
 }

@@ -4,13 +4,15 @@ import Registration from './pages/Registration';
 import Speakerinfo from './pages/Speakerinfo';
 import Teaminfo from './pages/Teaminfos';
 import Footer from './layouts/footer';
+import './assets/header/header.css'
 import { NavLink, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <div className='App'>
     <nav>
       <ul>
-        <li> <NavLink to = '/'>HOME</NavLink> </li>
+        <li> <NavLink to = '/'>Home</NavLink> </li>
+        <li> <NavLink to = '/aboutus'>About Us</NavLink></li>
         <li> <NavLink to = '/registration'> Registration</NavLink> </li>
         <li> <NavLink to='/Speakerinfo' > Speakerinfo</NavLink> </li>
         <li> <NavLink to='/Teaminfo'> Teaminfo</NavLink></li>

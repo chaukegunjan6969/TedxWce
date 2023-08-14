@@ -2,13 +2,11 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    border: 3px solid black ;
-    margin: 10px;
-    padding: 10px;
-    width: 100%;
-    height: 100%;
+    border: 0px solid black ;
+    /* margin: 10px; */
+    /* padding: 10px; */
     position: relative;
     overflow: hidden;
-    background-color: lightblue;
+    background-color: black;
     z-index: 1;
 }

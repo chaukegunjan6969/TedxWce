@@ -1,0 +1,11 @@
+nav {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    text-align: center;
+    word-spacing: 1rem;
+    background-color: black;
+}
+li {
+    display: inline;
+}

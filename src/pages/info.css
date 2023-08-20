@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto:wght@100&display=swap');
+.info-sect{
+    background-color: #161616;
+    color: aliceblue;
+    border-radius: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+}

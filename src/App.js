@@ -12,29 +12,17 @@ import Spepagetwo from './pages/Homepage/SubHomepages/Spepagetwo';
 import Spepagethree from './pages/Homepage/SubHomepages/Spepagethree';
 import Spepagefour from './pages/Homepage/SubHomepages/Spepagefour';
 import Speapagefive from './pages/Homepage/SubHomepages/Speapagefive';
-
-
-
-
-
 import { NavLink, Route, Routes } from 'react-router-dom';
-
-
-
-
-
 function App() {
   return (
-
     <div className='App'>
-
     <nav> 
       <ul  className="w-11/12 flex flex-wrap max-w-max space-x-4 gap-x-4 mx-auto py-4 justify-items-end">
+        <NavLink to = '/'><img src="https://i.ibb.co/2cmf2h7/logo-white.png" alt="TEDxLogo" id="ted-nav-logo"/></NavLink>
         <li> <NavLink to = '/'>HOME</NavLink> </li>
         <li> <NavLink to = '/registration'> Registration</NavLink> </li>
         <li> <NavLink to='/Speakerinfo' > Speakerinfo</NavLink> </li>
         <li><NavLink to='/Teaminfo'> Teaminfo</NavLink></li>
-        
       </ul>
     </nav>
 

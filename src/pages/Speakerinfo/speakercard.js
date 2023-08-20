@@ -1,9 +1,7 @@
 import React from 'react'
-
 const speakercard = () => {
   return (
     <div className='speakercard'>
-
       <div>
         <image></image>
       </div>

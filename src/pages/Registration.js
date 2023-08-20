@@ -1,8 +1,7 @@
 import React from 'react'
-// import Form  from './Registration/Form'
-// import Venue from './Registration/Venue'
-import './form.css'
-import { Outlet } from "react-router-dom";
+import Form  from './Registration/Form'
+import Venue from './Registration/Venue'
+
 const Registration = () => {
   return (
     <div id="register-text">

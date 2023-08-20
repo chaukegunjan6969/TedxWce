@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto:wght@100&display=swap');
+.footer{
+    background-color: #161616;
+    display: flex;
+    border: 1px solid white;
+    height: auto;
+    font-family: 'poppins', sans-serif !important;
+    flex-direction: row;
+    z-index: 2;
+    position: relative;
+    border: 1px solid #8d7c60;
+    box-shadow: 0 8px 20px 0 #383126;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
+}
+#Closing{
+    font-family: 'Roboto', sans-serif;
+}
+.footer{
+    height: auto;
+    position: relative;
+}
+#ted-logo{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    display: flex;
+    width: 150px;
+    align-items: center;
+    position: relative;
+}
+.copy-right{
+    display: flex;
+    /* width: 30%; */
+    font-family: 'Raleway', sans-serif;
+}
+.Test{
+    color:#383126;
+}
+#Social-Branding{
+    align-items: center;
+    position: relative;
+}
+#Social-Branding{
+    gap: 1rem;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+}

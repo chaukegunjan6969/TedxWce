@@ -1,0 +1,25 @@
+.form-design{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+}
+.register-text{
+    padding-right: 1rem;
+}
+#register-text{
+    background-color: #161616;
+    border-radius: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: solid 0.1rem aliceblue;
+    border-color: aliceblue;
+}
+input{
+    border-radius: 0.5rem;
+}
+.submit-button{
+    align-items: center;
+    text-align: center;
+}

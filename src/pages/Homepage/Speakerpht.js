@@ -23,8 +23,9 @@
            
         </div>
         
-        <div className='border-4 '>
-          <p>gunjana9pujeihjieaodvcij</p>
+        <div className='Speakerphot'>
+            <img></img>
+            this is an image
         </div>
        
         <button  className="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg sm:py-3 sm:px-6" >
